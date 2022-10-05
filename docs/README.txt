@@ -1,7 +1,5 @@
 +------------------------------------------------------------------------------+
-|    ViciDial Call Center - astguiclient - thirtieth public release 2.0.5      |
-|              created by ViciDial group <vicidial@gmail.com>                  |
-|  project started 2003-10-06   http://sourceforge.net/projects/astguiclient/  |
+|    ViciDial Call Center  |
 +------------------------------------------------------------------------------+
 
 This suite of programs is designed to work with the Asterisk Open-source PBX
